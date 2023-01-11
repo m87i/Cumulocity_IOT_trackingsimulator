@@ -1,0 +1,7 @@
+{
+    "tenant-id":"enviroment",
+    "user-id":"username",
+    "pwd":"password",
+    "trackfile": "track1.json"
+
+}
